@@ -9,3 +9,7 @@
 4. Instalar y Configurar el entorno de python que vamos a utilizar
 5. Configurar y modificar el fichero pyrightconfig.json
 6. configurar y modificar el fichero launch.json preparándolo para el debug
+
+# Más información en el video original
+
+https://youtu.be/UNrwa5lN7Zc
